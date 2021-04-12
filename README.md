@@ -3,6 +3,8 @@
 
 ![Typescript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=react&logoColor=white)
+<!-- ![Testing Library Badge](https://img.shields.io/badge/-Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white) -->
 ![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![ReactiveX Badge](https://img.shields.io/badge/-ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
