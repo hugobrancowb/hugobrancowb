@@ -10,6 +10,6 @@
 ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Swagger Badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+<!-- ![Swagger Badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) -->
 
 ### :man_technologist: Desenvolvedor Front-End na [Justa Pagamentos](https://www.justa.com.vc/)
