@@ -15,8 +15,9 @@
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<!-- ![Swagger Badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) -->
 <!-- ![NestJs Badge](https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white) -->
+<!-- ![Storybook Badge](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) -->
 <!-- ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=kotlin&logoColor=black) -->
+<!-- ![Swagger Badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) -->
 
 ### :man_technologist: Software Engineer at [Justa](https://www.justa.com.vc/)
