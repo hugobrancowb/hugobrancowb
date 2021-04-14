@@ -1,3 +1,7 @@
+<h3 align=center>
+  :man_technologist: Software Engineer at <a href="https://www.justa.com.vc">Justa</a>
+</h3>
+
 <p align=center>
   <a href="https://www.linkedin.com/in/hugobrancowb/"><img src="https://img.shields.io/badge/-hugobrancowb-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="https://www.twitter.com/hugobranco"><img src="https://img.shields.io/badge/-@hugobranco-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
@@ -26,7 +30,3 @@
 <!-- ![Storybook Badge](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) -->
 <!-- ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=kotlin&logoColor=black) -->
 <!-- ![Swagger Badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) -->
-
-<h3 align=center>
-  :man_technologist: Software Engineer at [Justa](https://www.justa.com.vc/)
-</h3>
