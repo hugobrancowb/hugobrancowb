@@ -2,6 +2,7 @@
 <a href="https://www.twitter.com/hugobranco"><img src="https://img.shields.io/badge/-@hugobranco-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+
 ![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=react&logoColor=white)
