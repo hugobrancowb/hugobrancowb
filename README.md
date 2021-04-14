@@ -15,6 +15,7 @@
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
+<!-- ![Webpack Badge](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) -->
 <!-- ![NestJs Badge](https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white) -->
 <!-- ![Storybook Badge](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) -->
 <!-- ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=kotlin&logoColor=black) -->
