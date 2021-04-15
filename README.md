@@ -1,7 +1,5 @@
 <h3 align=center>
-  <a href="https://www.linkedin.com/in/hugobrancowb/"><img src="https://img.shields.io/badge/-hugobrancowb-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    
-  :man_technologist: Software Engineer at <a href="https://www.justa.com.vc">Justa</a>
+  <a href="https://www.linkedin.com/in/hugobrancowb/"><img src="https://img.shields.io/badge/-hugobrancowb-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>     :man_technologist: Software Engineer at <a href="https://www.justa.com.vc">Justa</a>
 </h3>
 
 ----------------------
