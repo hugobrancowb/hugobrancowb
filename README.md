@@ -1,13 +1,8 @@
 <h3 align=center>
-  :man_technologist: Software Engineer at <a href="https://www.justa.com.vc">Justa</a>
+  <a href="https://www.linkedin.com/in/hugobrancowb/"><img src="https://img.shields.io/badge/-hugobrancowb-blue?style=flat-square&logo=Linkedin&logoColor=white"> :man_technologist: Software Engineer at <a href="https://www.justa.com.vc">Justa</a>
 </h3>
 
 ----------------------
-
-<p align=center>
-  <a href="https://www.linkedin.com/in/hugobrancowb/"><img src="https://img.shields.io/badge/-hugobrancowb-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://www.twitter.com/hugobranco"><img src="https://img.shields.io/badge/-@hugobranco-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-</p>
 
 <p align=center>
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
