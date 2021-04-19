@@ -20,7 +20,7 @@
 <p align=center>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"> -->
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=kotlin&logoColor=black"> -->
   <!-- <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"> -->
