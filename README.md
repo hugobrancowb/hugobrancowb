@@ -2,7 +2,7 @@
   :man_technologist: Software Engineer at <a href="https://www.justa.com.vc">Justa</a>
 </h3>
 <p align=center>
-  Currently working with FrontEnd Web Applications based on Angular 5+ and React with Typescript<br/>and microsservices built using Play Framework with Java.
+  Currently working with FrontEnd Web Applications based on Angular 5+ and React with Typescript<br/>and BackEnd Microsservices built using Play Framework with Java.
 </p>
 
 ----------------------
