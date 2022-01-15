@@ -2,7 +2,9 @@
   :man_technologist: Software Engineer at <a href="https://www.justa.com.vc">Justa</a>
 </h3>
 <p align=center>
-  Currently working with Mobile App Development using Flutter 2.5, FrontEnd Web Applications based on Angular 5+ and React with Typescript and BackEnd Microsservices built using Play Framework with Java.
+  Mobile App Development using Flutter.<br/>
+  BackEnd Microsservices built using Play Framework with Java.<br/>
+  FrontEnd Web Applications based on Angular 5+ and React with Typescript.
 </p>
 
 ----------------------
