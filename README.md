@@ -16,12 +16,9 @@
 </p>
 
 <p align=center>
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-B30027?logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-NestJs-E0234E?logo=nestjs&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white"> -->
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black"> -->
-  <!-- <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black"> -->
 </p>
 
 <p align=center>
@@ -32,6 +29,3 @@
   <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/-Testing%20Library-E33332?logo=testing-library&logoColor=white">
 </p>
-
-<!-- ![Webpack Badge](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black) -->
-<!-- ![Storybook Badge](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white) -->
