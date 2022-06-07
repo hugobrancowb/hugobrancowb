@@ -7,8 +7,6 @@
   FrontEnd Web Applications based on Angular 5+ and React with Typescript.
 </p>
 
-----------------------
-
 <p align=center>
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
