@@ -1,5 +1,5 @@
 <h3 align=center>
-  :man_technologist: Software Engineer at <a href="https://www.justa.com.vc">Justa</a>
+  :man_technologist: Mobile Software Engineer
 </h3>
 <p align=center>
   Mobile App Development using Flutter.<br/>
