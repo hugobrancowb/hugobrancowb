@@ -8,16 +8,16 @@
 </p>
 
 <p align=center>
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flutter-2CB7F6?logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/-Dart-04599C?logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black">
 </p>
 
 <p align=center>
-  <img src="https://img.shields.io/badge/-Java-B30027?logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-NestJs-E0234E?logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-FF0000?logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-NestJs-ED2945?logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336690?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Neo4j-018BFF?logo=neo4j&logoColor=white">
 </p>
 
 <p align=center>
@@ -26,5 +26,4 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/-Testing%20Library-E33332?logo=testing-library&logoColor=white"> -->
 </p>
