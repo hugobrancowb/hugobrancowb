@@ -21,9 +21,9 @@
 </p>
 
 <p align=center>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/-Jest-98425B?logo=jest&logoColor=white">
 </p>
