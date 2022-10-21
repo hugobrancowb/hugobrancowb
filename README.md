@@ -28,6 +28,4 @@
   <img src="https://img.shields.io/badge/-Jest-98425B?logo=jest&logoColor=white">
 </p>
 
----
-
 [![@hugobrancowb's Holopin board](https://holopin.me/hugobrancowb)](https://holopin.io/@hugobrancowb)
