@@ -10,7 +10,7 @@
 <p align=center>
   <img src="https://img.shields.io/badge/-Flutter-2CB7F6?logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/-Dart-04599C?logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/-SwiftUI-F05138?logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black">
 </p>
 
