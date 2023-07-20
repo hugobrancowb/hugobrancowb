@@ -3,8 +3,8 @@
 </h3>
 <p align=center>
   Mobile App Development using Flutter.<br/>
-  BackEnd Microsservices built using Play Framework with Java.<br/>
-  FrontEnd Web Applications based on Angular 5+ and React with Typescript.
+  FrontEnd Web Applications based on Angular 5+ and React with Typescript.<br/>
+  BackEnd Microsservices built using Play Framework with Java.
 </p>
 
 <p align=center>
