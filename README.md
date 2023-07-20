@@ -1,5 +1,5 @@
 <h3 align=center>
-  :man_technologist: Mobile Software Engineer
+  :man_technologist: Software Engineer
 </h3>
 <p align=center>
   Mobile App Development using Flutter.<br/>
